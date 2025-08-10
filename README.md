@@ -9,16 +9,16 @@
 
 ---
 
-## 🚀 About Me
-💡 I'm a **BTech AI & Data Science** student with a passion for building **AI-powered solutions** and delivering **impactful projects**.  
-🛠 I love blending **data-driven decision making** with **modern web technologies** to create real-world applications.  
-🌱 Currently diving deep into **LLMs**, **LangChain**, and **RAG pipelines**.  
+##  About Me
+ I'm a **BTech AI & Data Science** student with a passion for building **AI-powered solutions** and delivering **impactful projects**.  
+ I love blending **data-driven decision making** with **modern web technologies** to create real-world applications.  
+ Currently diving deep into **LLMs**, **LangChain**, and **RAG pipelines**.  
 
 ---
 
-## 🛠 Skills & Expertise  
+##  Skills & Expertise  
 
-### 💻 Languages & Databases  
+###  Languages & Databases  
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & AI  
+###  Machine Learning & AI  
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/LLM-FF4088?style=for-the-badge"/>
 </p>
 
-### 🌐 Web Development & Tools  
+###  Web Development & Tools  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 📋 Software Development Practices  
+###  Software Development Practices  
 <p>
   <img src="https://img.shields.io/badge/SDLC-2E8B57?style=for-the-badge&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-FFB500?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
@@ -55,7 +55,7 @@
 
 ---
 
-## 📫 Let’s Connect  
+##  Let’s Connect  
 <p align="center">
   <a href="https://linkedin.com/in/anittakurian74" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anitta%20Kurian-blue?style=for-the-badge&logo=linkedin"/>
